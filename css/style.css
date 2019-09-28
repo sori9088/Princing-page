@@ -6,27 +6,6 @@
   margin : 5px;
 }
 
-.forms-left {
-  display: flex;
-  flex: 2;
-  margin: 100px;
-}
-
-.forms-right {
-  display: flex;
-  flex: 1;
-}
-
-  .badge-notify{
-    background:red;
-    position:relative;
-    top: -20px;
-    right: 10px;
-  }
-  .my-cart-icon-affix {
-    position: fixed;
-    z-index: 999;
-  }
   
   .logo {
     width : 30px;
